@@ -1,8 +1,10 @@
-# 🔍 US Police Killings Analysis & ML Prediction
+# 🔍 Patterns of Force: A Data-Driven Analysis of US Police Killings
 
-This project analyzes police killings across US states using demographic and socioeconomic data from the **American Community Survey (ACS)** and police fatality records.
+This is my **most extensive project in data analysis and data science so far**, built as a complete, multi-phase case study.
 
-The project is structured into clear, progressive phases — from exploration to modeling to deployment.
+The project explores police killings across U.S. states using demographic and socioeconomic data from the **American Community Survey (ACS)** combined with national police fatality records.
+
+It spans the full data science pipeline — from exploration and visualization to machine learning modeling, geospatial mapping, and Streamlit dashboard deployment — all organized into clear, progressive phases.
 
 ---
 
