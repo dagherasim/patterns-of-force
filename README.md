@@ -1,4 +1,4 @@
-# 🔍 Patterns of Force: A Data-Driven Analysis of US Police Killings
+# 🔬 Data Science Case Study — Analyzing Police Killings in America Using ACS + ML + GeoVisuals
 
 This is my **most extensive project in data analysis and data science so far**, built as a complete, multi-phase case study.
 
